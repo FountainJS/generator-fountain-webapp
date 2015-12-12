@@ -27,6 +27,7 @@
     "lodash": "^3.10.1",
     "fountain-generator": "^0.0.1",
     "generator-fountain-react": "^0.0.1",
+    "generator-fountain-angular1": "^0.0.1",
     "generator-fountain-angular2": "^0.0.1"
   },
   "devDependencies": {
