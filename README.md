@@ -1,4 +1,4 @@
-# Fountain React Generator
+# Fountain Webapp Generator
 
 Yeoman 'fountain' generator to start a webapp.
 
