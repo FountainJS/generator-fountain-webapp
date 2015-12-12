@@ -1,0 +1,44 @@
+{
+  "name": "generator-fountain-webapp",
+  "version": "0.0.1",
+  "description": "Yeoman 'fountain' generator to start a webapp",
+  "homepage": "",
+  "repository": "fountainjs/generator-fountain-webapp",
+  "author": "Matthieu Lux & Mehdy Dara",
+  "contributors": [
+    "Matthieu Lux <matthieu.lux@gmail.com> (http://swiip.github.io/)",
+    "Mehdy Dara <mdara@eleven-labs.com> (http://eleven-labs.com/)"
+  ],
+  "main": "index.js",
+  "keywords": [
+    "yeoman-generator",
+    "fountain-generator",
+    "yeoman",
+    "generator",
+    "gulp",
+    "gulpfile",
+    "fountain",
+    "cli"
+  ],
+  "engines": {
+    "node" : ">=4.0"
+  },
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "fountain-generator": "^0.0.1",
+    "generator-fountain-react": "^0.0.1"
+  },
+  "devDependencies": {
+    "gulp": "gulpjs/gulp#4.0",
+    "gulp-eslint": "^1.0.0",
+    "gulp-exclude-gitignore": "^1.0.0",
+    "gulp-istanbul": "^0.10.2",
+    "gulp-mocha": "^2.1.3",
+    "gulp-util": "^3.0.7",
+    "yeoman-assert": "^2.1.0"
+  },
+  "scripts": {
+    "test": "gulp"
+  },
+  "license": "MIT"
+}
