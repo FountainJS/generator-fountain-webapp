@@ -1,6 +1,6 @@
 {
   "name": "generator-fountain-webapp",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Yeoman 'fountain' generator to start a webapp",
   "homepage": "",
   "repository": "fountainjs/generator-fountain-webapp",
@@ -21,7 +21,7 @@
     "cli"
   ],
   "engines": {
-    "node" : ">=4.0"
+    "node": ">=4.0"
   },
   "dependencies": {
     "lodash": "^3.10.1",
