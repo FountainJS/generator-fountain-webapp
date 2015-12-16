@@ -22,6 +22,8 @@ Because we create a generator you should be specific as possible in your request
 ### Build from sources
 If you're willing to work on a Pull Request, you'll have to install the generator locally. As the generator is based on the composition of a lot of small generators, this can be not necessarily obvious.
 
+More informations in [DESIGN.md](DESIGN.md).
+
 The main principle is to use the [npm link](https://docs.npmjs.com/cli/link) which allows you to install globally your source version of a module and to link a specific dependency from a module to your source in place of a local copy.
 
 To work on fountain generators, you have to clone the projects and publish them locally with `npm link`. You'll also need no link each others with `npm link <dep>`. This is a bit tedious but has to be done only once.

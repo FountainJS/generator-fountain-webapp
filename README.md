@@ -12,15 +12,15 @@
 - JS preprocessor: Babel, TypeScript, none
 - CSS preprocessor: Sass, Less, none
 
-This is generator is the entry point of the Yeoman Fountain generators for webapps.
-
-This generator can be considered as the v2 of [generator-gulp-angular](https://github.com/Swiip/generator-gulp-angular).
+This generator is the entry point of the Yeoman Fountain generators for webapps. It can be considered as the v2 of [generator-gulp-angular](https://github.com/Swiip/generator-gulp-angular).
 
 ## Generator Fountain Webapp structure
 
 To take profit of the best of the Yeoman infrastructure, we heavily relies on the composability natures of the generators.
 
 Thereby, each needs of your future application will be addressed by a dedicated Yeoman generator (each will be used depending of the options you selected or not).
+
+More informations in [DESIGN.md](DESIGN.md).
 
 ### Web framework layer
 This generators can be used directly to bypass the framework question.
@@ -74,3 +74,11 @@ mkdir my-new-project && cd $_
 ```
 yo fountain-webapp
 ```
+
+## Changelog
+
+[All changes listed in the GitHub releases](https://github.com/FountainJS/generator-fountain-webapp)
+
+## Contributing
+
+[Guidelines](CONTRIBUTING.md)
