@@ -1,18 +1,24 @@
+'use strict';
+
 const path = require('path');
 const gulp = require('gulp');
 const eslint = require('gulp-eslint');
 const excludeGitignore = require('gulp-exclude-gitignore');
-const istanbul = require('gulp-istanbul');
 const mocha = require('gulp-mocha');
+const istanbul = require('gulp-istanbul');
 const nsp = require('gulp-nsp');
 const plumber = require('gulp-plumber');
-const gutil = require('gulp-util');
 
-gulp.task('linter', eslintCheck);
-gulp.task('prepublish', nodeSecurityProject);
-gulp.task('default', gulp.series('linter', gulp.series(istanbulCover, mochaTest)));
+gulp.task('nsp', nodeSecurityProtocol);
+gulp.task('watch', watch);
+gulp.task('static', eslintCheck);
+gulp.task('pre-test', istanbulCover);
+gulp.task('test', gulp.series('pre-test', mochaTest));
 
-function nodeSecurityProject(cb) {
+gulp.task('prepublish', gulp.series('nsp'));
+gulp.task('default', gulp.series('static', 'test'));
+
+function nodeSecurityProtocol(cb) {
   nsp({package: path.resolve('package.json')}, cb);
 }
 
@@ -27,7 +33,9 @@ function eslintCheck() {
 function istanbulCover() {
   return gulp.src(['**/*.js', '!**/templates/**'])
     .pipe(excludeGitignore())
-    .pipe(istanbul({includeUntested: true}))
+    .pipe(istanbul({
+      includeUntested: true
+    }))
     .pipe(istanbul.hookRequire());
 }
 
@@ -35,9 +43,12 @@ function mochaTest() {
   return gulp.src('test/**/*.js')
     .pipe(plumber())
     .pipe(mocha({reporter: 'spec'}))
-    .once('error', err => {
-      gutil.log(gutil.colors.red('[Mocha]'), err.toString());
+    .once('error', () => {
       process.exit(1);
     })
     .pipe(istanbul.writeReports());
+}
+
+function watch() {
+  gulp.watch('**/*.js', ['test']);
 }
