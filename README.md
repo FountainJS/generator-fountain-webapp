@@ -70,7 +70,7 @@ npm install -g generator-fountain-webapp
 mkdir my-new-project && cd $_
 ```
 
-##### Run `yo gulp-angular`, and select desired technologies:
+##### Run `yo fountain-webapp`, and select desired technologies:
 ```
 yo fountain-webapp
 ```
