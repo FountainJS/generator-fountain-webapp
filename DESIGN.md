@@ -55,7 +55,7 @@ no modules and script injects         modules with webpack             modules w
 -----------------------------     ----------------------------     -----------------------------
 ```
 
-# [foutain-generator](https://github.com/FountainJS/fountain-generator) Base
+# [fountain-generator](https://github.com/FountainJS/fountain-generator) Base
 
 To implement the concept of main options and to have some common utility functions shared amongst all fountain generators, there is a fountain-generator module which contains a Base generator to be used by all fountain generators.
 
