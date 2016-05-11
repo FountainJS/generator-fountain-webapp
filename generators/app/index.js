@@ -6,7 +6,14 @@ module.exports = fountain.Base.extend({
   },
 
   composing() {
-    this.composeWith(`fountain-${this.props.framework}`, {options: this.props}, {
+    this.composeWith(`fountain-${this.props.framework}`, {
+      options: {
+        framework: this.props.framework,
+        modules: this.props.modules,
+        js: this.props.js,
+        css: this.props.css
+      }
+    }, {
       local: require.resolve(`generator-fountain-${this.props.framework}/generators/app`)
     });
   }
