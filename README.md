@@ -1,7 +1,5 @@
 # Fountain Webapp Generator
 
-## Project under heavy development
-
 > This Yeoman generator allows you to start any Webapp with the best Developer Experience out of the box!
 
 > No matter what framework or module management you want to use, we got you covered with a cutting edge working configuration.
@@ -20,41 +18,41 @@ To take profit of the best of the Yeoman infrastructure, we heavily relies on th
 
 Thereby, each needs of your future application will be addressed by a dedicated Yeoman generator (each will be used depending of the options you selected or not).
 
-More informations in [DESIGN.md](DESIGN.md).
+More informations in [DESIGN.md](http://fountainjs.io/doc/design).
+
 
 ### Web framework layer
 This generators can be used directly to bypass the framework question.
 
-[![React](docs/assets/react.png)](https://github.com/FountainJS/generator-fountain-react)
-[![Angular 1](docs/assets/angular1.png)](https://github.com/FountainJS/generator-fountain-angular1)
-[![Angular 2](docs/assets/angular2.png)](https://github.com/FountainJS/generator-fountain-angular2)
+[![React](http://fountainjs.io/assets/imgs/react.png)](https://github.com/FountainJS/generator-fountain-react)
+[![Angular 1](http://fountainjs.io/assets/imgs/angular1.png)](https://github.com/FountainJS/generator-fountain-angular1)
+[![Angular 2](http://fountainjs.io/assets/imgs/angular2.png)](https://github.com/FountainJS/generator-fountain-angular2)
 
 ### Web tooling layer
-[![Gulp](docs/assets/gulp.png)](https://github.com/FountainJS/generator-fountain-gulp)
-[![ESLint](docs/assets/eslint.png)](https://github.com/FountainJS/generator-fountain-eslint)
-[![BrowserSync](docs/assets/browsersync.png)](https://github.com/FountainJS/generator-fountain-browsersync)
-[![Karma](docs/assets/karma.png)](https://github.com/FountainJS/generator-fountain-karma)
+[![Gulp](http://fountainjs.io/assets/imgs/gulp.png)](https://github.com/FountainJS/generator-fountain-gulp)
+[![ESLint](http://fountainjs.io/assets/imgs/eslint.png)](https://github.com/FountainJS/generator-fountain-eslint)
+[![BrowserSync](http://fountainjs.io/assets/imgs/browsersync.png)](https://github.com/FountainJS/generator-fountain-browsersync)
+[![Karma](http://fountainjs.io/assets/imgs/karma.png)](https://github.com/FountainJS/generator-fountain-karma)
 
 ### Module management layer
-[![Webpack](docs/assets/webpack.png)](https://github.com/FountainJS/generator-fountain-webpack)
-[![SystemJS](docs/assets/systemjs.png)](https://github.com/FountainJS/generator-fountain-systemjs)
-[![Bower](docs/assets/bower.png)](https://github.com/FountainJS/generator-fountain-inject)
+[![Webpack](http://fountainjs.io/assets/imgs/webpack.png)](https://github.com/FountainJS/generator-fountain-webpack)
+[![SystemJS](http://fountainjs.io/assets/imgs/systemjs.png)](https://github.com/FountainJS/generator-fountain-systemjs)
+[![Bower](http://fountainjs.io/assets/imgs/bower.png)](https://github.com/FountainJS/generator-fountain-inject)
 
 
-## Usage
+### Usage
 
-### Requirement Node 4+
-This generator is targeted to be used with Node >= 4.0.0. You can check your version number with the command
+### Requirement Node 4+ && NPM 3+
+This generator is targeted to be used with Node >= 4.0.0 and NPM => 3.0.0. You can check your version number with the command
 ```
-node --version
+node --version && npm --version
 ```
-If you have a version 0.x, please update on [nodejs.org](https://nodejs.org/en/download/).
 
 ### Install
 
-##### Install required tools `yo` and `gulp-cli`:
+##### Install required tools `yo`:
 ```
-npm install -g yo gulp-cli
+npm install -g yo
 ```
 
 ##### Install `generator-fountain-webapp`:
@@ -67,7 +65,7 @@ npm install -g generator-fountain-webapp
 
 ##### Create a new directory, and go into:
 ```
-mkdir my-new-project && cd $_
+mkdir my-new-project && cd my-new-project
 ```
 
 ##### Run `yo fountain-webapp`, and select desired technologies:
@@ -75,10 +73,10 @@ mkdir my-new-project && cd $_
 yo fountain-webapp
 ```
 
-## Changelog
+### [Start development](http://fountainjs.io/doc/usage/#use-npm-scripts)
 
-[All changes listed in the GitHub releases](https://github.com/FountainJS/generator-fountain-webapp)
 
-## Contributing
+## [Changelog](https://github.com/FountainJS/generator-fountain-webapp/releases)
 
-[Guidelines](CONTRIBUTING.md)
+
+## [Contributing](http://fountainjs.io/doc/contributing)
