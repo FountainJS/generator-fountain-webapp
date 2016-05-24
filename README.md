@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="http://fountainjs.io/">
+    <img alt="FountainJS" src="http://fountainjs.io/assets/imgs/fountain.png" width="200">
+  </a>
+</p>
+
 # Fountain Webapp Generator
 
 > This Yeoman generator allows you to start any Webapp with the best Developer Experience out of the box!

@@ -4,10 +4,11 @@
   "description": "Yeoman 'fountain' generator to start a webapp",
   "homepage": "",
   "repository": "fountainjs/generator-fountain-webapp",
-  "author": "Matthieu Lux & Mehdy Dara",
+  "author": "The Fountain Team",
   "contributors": [
     "Matthieu Lux <matthieu.lux@gmail.com> (http://swiip.github.io/)",
-    "Mehdy Dara <mdara@eleven-labs.com> (http://eleven-labs.com/)"
+    "Mehdy Dara <mdara@eleven-labs.com> (http://eleven-labs.com/)",
+    "Micael Mbagira <micael.mbagira@icloud.com> (http://micaelmbagira.github.io)"
   ],
   "main": "index.js",
   "keywords": [
