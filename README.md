@@ -18,25 +18,26 @@ To take profit of the best of the Yeoman infrastructure, we heavily relies on th
 
 Thereby, each needs of your future application will be addressed by a dedicated Yeoman generator (each will be used depending of the options you selected or not).
 
-More informations in [DESIGN.md](DESIGN.md).
+More informations in [DESIGN.md](http://fountainjs.io/doc/design).
+
 
 ### Web framework layer
 This generators can be used directly to bypass the framework question.
 
-[![React](docs/assets/react.png)](https://github.com/FountainJS/generator-fountain-react)
-[![Angular 1](docs/assets/angular1.png)](https://github.com/FountainJS/generator-fountain-angular1)
-[![Angular 2](docs/assets/angular2.png)](https://github.com/FountainJS/generator-fountain-angular2)
+[![React](http://fountainjs.io/assets/imgs/react.png)](https://github.com/FountainJS/generator-fountain-react)
+[![Angular 1](http://fountainjs.io/assets/imgs/angular1.png)](https://github.com/FountainJS/generator-fountain-angular1)
+[![Angular 2](http://fountainjs.io/assets/imgs/angular2.png)](https://github.com/FountainJS/generator-fountain-angular2)
 
 ### Web tooling layer
-[![Gulp](docs/assets/gulp.png)](https://github.com/FountainJS/generator-fountain-gulp)
-[![ESLint](docs/assets/eslint.png)](https://github.com/FountainJS/generator-fountain-eslint)
-[![BrowserSync](docs/assets/browsersync.png)](https://github.com/FountainJS/generator-fountain-browsersync)
-[![Karma](docs/assets/karma.png)](https://github.com/FountainJS/generator-fountain-karma)
+[![Gulp](http://fountainjs.io/assets/imgs/gulp.png)](https://github.com/FountainJS/generator-fountain-gulp)
+[![ESLint](http://fountainjs.io/assets/imgs/eslint.png)](https://github.com/FountainJS/generator-fountain-eslint)
+[![BrowserSync](http://fountainjs.io/assets/imgs/browsersync.png)](https://github.com/FountainJS/generator-fountain-browsersync)
+[![Karma](http://fountainjs.io/assets/imgs/karma.png)](https://github.com/FountainJS/generator-fountain-karma)
 
 ### Module management layer
-[![Webpack](docs/assets/webpack.png)](https://github.com/FountainJS/generator-fountain-webpack)
-[![SystemJS](docs/assets/systemjs.png)](https://github.com/FountainJS/generator-fountain-systemjs)
-[![Bower](docs/assets/bower.png)](https://github.com/FountainJS/generator-fountain-inject)
+[![Webpack](http://fountainjs.io/assets/imgs/webpack.png)](https://github.com/FountainJS/generator-fountain-webpack)
+[![SystemJS](http://fountainjs.io/assets/imgs/systemjs.png)](https://github.com/FountainJS/generator-fountain-systemjs)
+[![Bower](http://fountainjs.io/assets/imgs/bower.png)](https://github.com/FountainJS/generator-fountain-inject)
 
 
 ### Usage
