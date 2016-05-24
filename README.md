@@ -1,7 +1,5 @@
 # Fountain Webapp Generator
 
-## Project under heavy development
-
 > This Yeoman generator allows you to start any Webapp with the best Developer Experience out of the box!
 
 > No matter what framework or module management you want to use, we got you covered with a cutting edge working configuration.
@@ -41,20 +39,19 @@ This generators can be used directly to bypass the framework question.
 [![Bower](docs/assets/bower.png)](https://github.com/FountainJS/generator-fountain-inject)
 
 
-## Usage
+### Usage
 
-### Requirement Node 4+
-This generator is targeted to be used with Node >= 4.0.0. You can check your version number with the command
+### Requirement Node 4+ && NPM 3+
+This generator is targeted to be used with Node >= 4.0.0 and NPM => 3.0.0. You can check your version number with the command
 ```
-node --version
+node --version && npm --version
 ```
-If you have a version 0.x, please update on [nodejs.org](https://nodejs.org/en/download/).
 
 ### Install
 
-##### Install required tools `yo` and `gulp-cli`:
+##### Install required tools `yo`:
 ```
-npm install -g yo gulp-cli
+npm install -g yo
 ```
 
 ##### Install `generator-fountain-webapp`:
@@ -67,7 +64,7 @@ npm install -g generator-fountain-webapp
 
 ##### Create a new directory, and go into:
 ```
-mkdir my-new-project && cd $_
+mkdir my-new-project && cd my-new-project
 ```
 
 ##### Run `yo fountain-webapp`, and select desired technologies:
@@ -75,10 +72,10 @@ mkdir my-new-project && cd $_
 yo fountain-webapp
 ```
 
-## Changelog
+### [Start development](http://fountainjs.io/doc/usage/#use-npm-scripts)
 
-[All changes listed in the GitHub releases](https://github.com/FountainJS/generator-fountain-webapp)
 
-## Contributing
+## [Changelog](https://github.com/FountainJS/generator-fountain-webapp/releases)
 
-[Guidelines](CONTRIBUTING.md)
+
+## [Contributing](http://fountainjs.io/doc/contributing)
