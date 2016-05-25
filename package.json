@@ -1,6 +1,6 @@
 {
   "name": "generator-fountain-webapp",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "Yeoman 'fountain' generator to start a webapp",
   "homepage": "",
   "repository": "fountainjs/generator-fountain-webapp",
@@ -25,10 +25,10 @@
     "node": ">=4.0"
   },
   "dependencies": {
-    "fountain-generator": "^0.4.0",
-    "generator-fountain-react": "^0.4.0",
-    "generator-fountain-angular1": "^0.4.0",
-    "generator-fountain-angular2": "^0.4.0"
+    "fountain-generator": "^0.5.0",
+    "generator-fountain-react": "^0.5.0",
+    "generator-fountain-angular1": "^0.5.0",
+    "generator-fountain-angular2": "^0.5.0"
   },
   "devDependencies": {
     "babel-eslint": "^6.0.2",
