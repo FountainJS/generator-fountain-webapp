@@ -6,7 +6,7 @@
 
 # Fountain Webapp Generator
 [![Build Status](https://travis-ci.org/FountainJS/fountain.svg?branch=master)](https://travis-ci.org/FountainJS/fountain)
-[![Slack](https://fountain-slack.herokuapp.com/badge.svg)](https://fountain-slack.herokuapp.com/)
+[![Slack](http://fountainjs.io/assets/imgs/slack_badge.png)](https://fountain-slack.herokuapp.com/)
 
 > This Yeoman generator allows you to start any Webapp with the best Developer Experience out of the box!
 
