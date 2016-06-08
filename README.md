@@ -13,10 +13,10 @@
 > No matter what framework or module management you want to use, we got you covered with a cutting edge working configuration.
 
 > We use [Gulp 4](http://gulpjs.com/) as a task manager but we'll ask you questions about:
-- Framework: React, Angular 1, Angular 2, none
+- Framework: React, Angular 2, Angular 1
 - Modules management: Webpack, SystemJS, none
 - JS preprocessor: Babel, TypeScript, none
-- CSS preprocessor: Sass, Less, none
+- CSS preprocessor: Sass, Stylus, Less, none
 
 This generator is the entry point of the Yeoman Fountain generators for webapps. It can be considered as the v2 of [generator-gulp-angular](https://github.com/Swiip/generator-gulp-angular).
 
