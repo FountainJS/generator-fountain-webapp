@@ -81,6 +81,15 @@ mkdir my-new-project && cd my-new-project
 yo fountain-webapp
 ```
 
+
+### Sub-generators
+
+If you want to access sub-generators, you have to globally install one of the following generators:
+- [generator-fountain-react](https://github.com/FountainJS/generator-fountain-react)
+- [generator-fountain-angular2](https://github.com/FountainJS/generator-fountain-angular2)
+- [generator-fountain-angular1](https://github.com/FountainJS/generator-fountain-angular1)
+
+
 ### [Start development](http://fountainjs.io/doc/usage/#use-npm-scripts)
 
 
