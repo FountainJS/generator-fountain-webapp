@@ -7,6 +7,9 @@
 # Fountain Webapp Generator
 [![Build Status](https://travis-ci.org/FountainJS/fountain.svg?branch=master)](https://travis-ci.org/FountainJS/fountain)
 [![Slack](http://fountainjs.io/assets/imgs/slack_badge.png)](https://fountain-slack.herokuapp.com/)
+[![OpenCollective](https://opencollective.com/fountainjs/backers/badge.svg)](#backers) 
+[![OpenCollective](https://opencollective.com/fountainjs/sponsors/badge.svg)](#sponsors)
+
 
 > This Yeoman generator allows you to start any Webapp with the best Developer Experience out of the box!
 
@@ -92,6 +95,75 @@ If you want to access sub-generators, you have to globally install one of the fo
 
 ### [Start development](http://fountainjs.io/doc/usage/#use-npm-scripts)
 
+##Backers
+
+Support us with a monthly donation and help us continue our activities. [[Become a backer](https://opencollective.com/fountainjs#backer)]
+
+<a href="https://opencollective.com/fountainjs/backer/0/website" target="_blank"><img src="https://opencollective.com/fountainjs/backer/0/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/backer/1/website" target="_blank"><img src="https://opencollective.com/fountainjs/backer/1/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/backer/2/website" target="_blank"><img src="https://opencollective.com/fountainjs/backer/2/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/backer/3/website" target="_blank"><img src="https://opencollective.com/fountainjs/backer/3/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/backer/4/website" target="_blank"><img src="https://opencollective.com/fountainjs/backer/4/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/backer/5/website" target="_blank"><img src="https://opencollective.com/fountainjs/backer/5/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/backer/6/website" target="_blank"><img src="https://opencollective.com/fountainjs/backer/6/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/backer/7/website" target="_blank"><img src="https://opencollective.com/fountainjs/backer/7/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/backer/8/website" target="_blank"><img src="https://opencollective.com/fountainjs/backer/8/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/backer/9/website" target="_blank"><img src="https://opencollective.com/fountainjs/backer/9/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/backer/10/website" target="_blank"><img src="https://opencollective.com/fountainjs/backer/10/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/backer/11/website" target="_blank"><img src="https://opencollective.com/fountainjs/backer/11/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/backer/12/website" target="_blank"><img src="https://opencollective.com/fountainjs/backer/12/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/backer/13/website" target="_blank"><img src="https://opencollective.com/fountainjs/backer/13/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/backer/14/website" target="_blank"><img src="https://opencollective.com/fountainjs/backer/14/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/backer/15/website" target="_blank"><img src="https://opencollective.com/fountainjs/backer/15/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/backer/16/website" target="_blank"><img src="https://opencollective.com/fountainjs/backer/16/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/backer/17/website" target="_blank"><img src="https://opencollective.com/fountainjs/backer/17/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/backer/18/website" target="_blank"><img src="https://opencollective.com/fountainjs/backer/18/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/backer/19/website" target="_blank"><img src="https://opencollective.com/fountainjs/backer/19/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/backer/20/website" target="_blank"><img src="https://opencollective.com/fountainjs/backer/20/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/backer/21/website" target="_blank"><img src="https://opencollective.com/fountainjs/backer/21/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/backer/22/website" target="_blank"><img src="https://opencollective.com/fountainjs/backer/22/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/backer/23/website" target="_blank"><img src="https://opencollective.com/fountainjs/backer/23/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/backer/24/website" target="_blank"><img src="https://opencollective.com/fountainjs/backer/24/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/backer/25/website" target="_blank"><img src="https://opencollective.com/fountainjs/backer/25/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/backer/26/website" target="_blank"><img src="https://opencollective.com/fountainjs/backer/26/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/backer/27/website" target="_blank"><img src="https://opencollective.com/fountainjs/backer/27/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/backer/28/website" target="_blank"><img src="https://opencollective.com/fountainjs/backer/28/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/backer/29/website" target="_blank"><img src="https://opencollective.com/fountainjs/backer/29/avatar.svg"></a>
+
+## Sponsors
+
+Become a sponsor and get your logo on our website fountainjs.io and on our README on Github with a link to your site. [[Become a sponsor](https://opencollective.com/fountainjs#sponsor)]
+
+<a href="https://opencollective.com/fountainjs/sponsor/0/website" target="_blank"><img src="https://opencollective.com/fountainjs/sponsor/0/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/sponsor/1/website" target="_blank"><img src="https://opencollective.com/fountainjs/sponsor/1/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/sponsor/2/website" target="_blank"><img src="https://opencollective.com/fountainjs/sponsor/2/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/sponsor/3/website" target="_blank"><img src="https://opencollective.com/fountainjs/sponsor/3/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/sponsor/4/website" target="_blank"><img src="https://opencollective.com/fountainjs/sponsor/4/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/sponsor/5/website" target="_blank"><img src="https://opencollective.com/fountainjs/sponsor/5/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/sponsor/6/website" target="_blank"><img src="https://opencollective.com/fountainjs/sponsor/6/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/sponsor/7/website" target="_blank"><img src="https://opencollective.com/fountainjs/sponsor/7/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/sponsor/8/website" target="_blank"><img src="https://opencollective.com/fountainjs/sponsor/8/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/sponsor/9/website" target="_blank"><img src="https://opencollective.com/fountainjs/sponsor/9/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/sponsor/10/website" target="_blank"><img src="https://opencollective.com/fountainjs/sponsor/10/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/sponsor/11/website" target="_blank"><img src="https://opencollective.com/fountainjs/sponsor/11/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/sponsor/12/website" target="_blank"><img src="https://opencollective.com/fountainjs/sponsor/12/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/sponsor/13/website" target="_blank"><img src="https://opencollective.com/fountainjs/sponsor/13/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/sponsor/14/website" target="_blank"><img src="https://opencollective.com/fountainjs/sponsor/14/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/sponsor/15/website" target="_blank"><img src="https://opencollective.com/fountainjs/sponsor/15/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/sponsor/16/website" target="_blank"><img src="https://opencollective.com/fountainjs/sponsor/16/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/sponsor/17/website" target="_blank"><img src="https://opencollective.com/fountainjs/sponsor/17/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/sponsor/18/website" target="_blank"><img src="https://opencollective.com/fountainjs/sponsor/18/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/sponsor/19/website" target="_blank"><img src="https://opencollective.com/fountainjs/sponsor/19/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/sponsor/20/website" target="_blank"><img src="https://opencollective.com/fountainjs/sponsor/20/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/sponsor/21/website" target="_blank"><img src="https://opencollective.com/fountainjs/sponsor/21/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/sponsor/22/website" target="_blank"><img src="https://opencollective.com/fountainjs/sponsor/22/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/sponsor/23/website" target="_blank"><img src="https://opencollective.com/fountainjs/sponsor/23/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/sponsor/24/website" target="_blank"><img src="https://opencollective.com/fountainjs/sponsor/24/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/sponsor/25/website" target="_blank"><img src="https://opencollective.com/fountainjs/sponsor/25/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/sponsor/26/website" target="_blank"><img src="https://opencollective.com/fountainjs/sponsor/26/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/sponsor/27/website" target="_blank"><img src="https://opencollective.com/fountainjs/sponsor/27/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/sponsor/28/website" target="_blank"><img src="https://opencollective.com/fountainjs/sponsor/28/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/sponsor/29/website" target="_blank"><img src="https://opencollective.com/fountainjs/sponsor/29/avatar.svg"></a>
 
 ## [Changelog](https://github.com/FountainJS/generator-fountain-webapp/releases)
 
