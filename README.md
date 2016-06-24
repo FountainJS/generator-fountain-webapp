@@ -7,6 +7,9 @@
 # Fountain Webapp Generator
 [![Build Status](https://travis-ci.org/FountainJS/fountain.svg?branch=master)](https://travis-ci.org/FountainJS/fountain)
 [![Slack](http://fountainjs.io/assets/imgs/slack_badge.png)](https://fountain-slack.herokuapp.com/)
+[![OpenCollective](https://opencollective.com/fountainjs/backers/badge.svg)](#backers)
+[![OpenCollective](https://opencollective.com/fountainjs/sponsors/badge.svg)](#sponsors)
+
 
 > This Yeoman generator allows you to start any Webapp with the best Developer Experience out of the box!
 
@@ -91,6 +94,29 @@ If you want to access sub-generators, you have to globally install one of the fo
 
 
 ### [Start development](http://fountainjs.io/doc/usage/#use-npm-scripts)
+
+***
+
+## Backers
+
+Support us with a monthly donation and help us continue our activities. [[Become a backer](https://opencollective.com/fountainjs#backer)]
+
+<a href="https://opencollective.com/fountainjs/backer/0/website" target="_blank"><img src="https://opencollective.com/fountainjs/backer/0/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/backer/1/website" target="_blank"><img src="https://opencollective.com/fountainjs/backer/1/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/backer/2/website" target="_blank"><img src="https://opencollective.com/fountainjs/backer/2/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/backer/3/website" target="_blank"><img src="https://opencollective.com/fountainjs/backer/3/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/backer/4/website" target="_blank"><img src="https://opencollective.com/fountainjs/backer/4/avatar.svg"></a>
+
+
+## Sponsors
+
+Become a sponsor and get your logo on our website fountainjs.io and on our README on Github with a link to your site. [[Become a sponsor](https://opencollective.com/fountainjs#sponsor)]
+
+<a href="https://opencollective.com/fountainjs/sponsor/0/website" target="_blank"><img src="https://opencollective.com/fountainjs/sponsor/0/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/sponsor/1/website" target="_blank"><img src="https://opencollective.com/fountainjs/sponsor/1/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/sponsor/2/website" target="_blank"><img src="https://opencollective.com/fountainjs/sponsor/2/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/sponsor/3/website" target="_blank"><img src="https://opencollective.com/fountainjs/sponsor/3/avatar.svg"></a>
+<a href="https://opencollective.com/fountainjs/sponsor/4/website" target="_blank"><img src="https://opencollective.com/fountainjs/sponsor/4/avatar.svg"></a>
 
 
 ## [Changelog](https://github.com/FountainJS/generator-fountain-webapp/releases)
