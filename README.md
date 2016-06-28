@@ -5,7 +5,8 @@
 </p>
 
 # Fountain Webapp Generator
-[![Build Status](https://travis-ci.org/FountainJS/fountain.svg?branch=master)](https://travis-ci.org/FountainJS/fountain)
+[![Build Status](https://travis-ci.org/FountainJS/generator-fountain-webapp.svg?branch=master)](https://travis-ci.org/FountainJS/generator-fountain-webapp)
+[![codecov](https://codecov.io/gh/FountainJS/generator-fountain-webapp/branch/master/graph/badge.svg)](https://codecov.io/gh/FountainJS/generator-fountain-webapp)
 [![Slack](http://fountainjs.io/assets/imgs/slack_badge.png)](https://fountain-slack.herokuapp.com/)
 [![OpenCollective](https://opencollective.com/fountainjs/backers/badge.svg)](#backers)
 [![OpenCollective](https://opencollective.com/fountainjs/sponsors/badge.svg)](#sponsors)
