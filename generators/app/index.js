@@ -21,7 +21,9 @@ module.exports = fountain.Base.extend({
         framework: this.props.framework,
         modules: this.props.modules,
         js: this.props.js,
-        css: this.props.css
+        css: this.props.css,
+        skipInstall: this.props.skipInstall,
+        skipCache: this.props.skipCache
       }
     }, {
       local: require.resolve(`generator-fountain-${this.props.framework}/generators/app`)
