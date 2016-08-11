@@ -21,6 +21,7 @@ module.exports = fountain.Base.extend({
         framework: this.props.framework,
         modules: this.props.modules,
         js: this.props.js,
+        ci: this.props.ci,
         css: this.props.css,
         skipInstall: this.props.skipInstall,
         skipCache: this.props.skipCache
