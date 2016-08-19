@@ -1,6 +1,6 @@
 {
   "name": "generator-fountain-webapp",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "description": "Yeoman Fountain generator to scaffold a webapp with React or Angular written in ES6 (Babel), TypeScript through Webpack or SystemJS including tools Gulp 4, ESLint, Browsersync and Karma",
   "homepage": "http://fountainjs.io/",
   "repository": "fountainjs/generator-fountain-webapp",
@@ -26,10 +26,10 @@
   },
   "dependencies": {
     "chalk": "^1.1.3",
-    "fountain-generator": "^0.6.0",
-    "generator-fountain-angular1": "^0.6.0",
-    "generator-fountain-angular2": "^0.6.0",
-    "generator-fountain-react": "^0.6.0",
+    "fountain-generator": "^0.7.0",
+    "generator-fountain-angular1": "^0.7.0",
+    "generator-fountain-angular2": "^0.7.0",
+    "generator-fountain-react": "^0.7.0",
     "yosay": "^1.1.1"
   },
   "devDependencies": {
