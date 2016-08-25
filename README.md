@@ -16,7 +16,7 @@
 > No matter what framework or module management you want to use, we got you covered with a cutting edge working configuration.
 
 > We use [Gulp 4](http://gulpjs.com/) as a task manager but we'll ask you questions about:
-- Framework: React, Angular 2, Angular 1
+- Framework: React, Angular 2, Angular 1, Vue 2
 - Modules management: Webpack, SystemJS, none
 - JS preprocessor: Babel, TypeScript, none
 - CSS preprocessor: Sass, Stylus, Less, none
@@ -38,6 +38,7 @@ This generators can be used directly to bypass the framework question.
 [![React](http://fountainjs.io/assets/imgs/react.png)](https://github.com/FountainJS/generator-fountain-react)
 [![Angular 1](http://fountainjs.io/assets/imgs/angular1.png)](https://github.com/FountainJS/generator-fountain-angular1)
 [![Angular 2](http://fountainjs.io/assets/imgs/angular2.png)](https://github.com/FountainJS/generator-fountain-angular2)
+[![Vue 2](http://fountainjs.io/assets/imgs/vue.png)](https://github.com/FountainJS/generator-fountain-vue)
 
 ### Web tooling layer
 [![Gulp](http://fountainjs.io/assets/imgs/gulp.png)](https://github.com/FountainJS/generator-fountain-gulp)
@@ -113,7 +114,7 @@ If you want to access sub-generators, you have to globally install one of the fo
 - [generator-fountain-react](https://github.com/FountainJS/generator-fountain-react)
 - [generator-fountain-angular2](https://github.com/FountainJS/generator-fountain-angular2)
 - [generator-fountain-angular1](https://github.com/FountainJS/generator-fountain-angular1)
-
+- [generator-fountain-vue](https://github.com/FountainJS/generator-fountain-vue)
 
 ### [Start development](http://fountainjs.io/doc/usage/#use-npm-scripts)
 
