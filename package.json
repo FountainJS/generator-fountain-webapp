@@ -35,18 +35,18 @@
   },
   "devDependencies": {
     "ava": "^0.16.0",
-    "babel-eslint": "^6.0.2",
+    "babel-eslint": "^7.1.0",
     "chai": "^3.5.0",
     "chai-spies": "^0.7.1",
-    "cross-spawn": "^4.0.0",
+    "cross-spawn": "^5.0.0",
     "eslint": "^3.2.2",
-    "eslint-config-xo-space": "^0.12.0",
+    "eslint-config-xo-space": "^0.15.0",
     "eslint-plugin-babel": "^3.2.0",
     "gulp": "gulpjs/gulp#4.0",
-    "gulp-eslint": "^2.0.0",
+    "gulp-eslint": "^3.0.1",
     "gulp-exclude-gitignore": "^1.0.0",
     "gulp-nsp": "^2.3.0",
-    "nyc": "^6.6.1"
+    "nyc": "^8.4.0"
   },
   "nyc": {
     "include": [
