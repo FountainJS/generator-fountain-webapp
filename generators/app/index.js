@@ -16,18 +16,14 @@ module.exports = fountain.Base.extend({
   },
 
   composing() {
-    this.composeWith(`fountain-${this.props.framework}`, {
-      options: {
-        framework: this.props.framework,
-        modules: this.props.modules,
-        js: this.props.js,
-        ci: this.props.ci,
-        css: this.props.css,
-        skipInstall: this.props.skipInstall,
-        skipCache: this.props.skipCache
-      }
-    }, {
-      local: require.resolve(`generator-fountain-${this.props.framework}/generators/app`)
+    this.composeWith(require.resolve(`generator-fountain-${this.props.framework}/generators/app`), {
+      framework: this.props.framework,
+      modules: this.props.modules,
+      js: this.props.js,
+      ci: this.props.ci,
+      css: this.props.css,
+      skipInstall: this.props.skipInstall,
+      skipCache: this.props.skipCache
     });
   }
 });
