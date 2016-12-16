@@ -39,5 +39,5 @@ test('composing(): Call this.composeWith', () => {
   context.composeWith = () => {};
   const spy = chai.spy.on(context, 'composeWith');
   TestUtils.call(context, 'composing', {framework: 'react'});
-  expect(spy).to.have.been.called.with('fountain-react');
+  expect(spy).to.have.been.called.with(require.resolve(`generator-fountain-react/generators/app`));
 });
